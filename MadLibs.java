@@ -1,11 +1,3 @@
-// Sierra Jordan
-// 5/17/2022
-// CSE 142
-// TA: Andrew Kuhn
-// Take-Home Assessment 6
-//
-// This program will allow a user to create and view Mad Libs.
-
 import java.io.*;
 import java.util.*;
 
